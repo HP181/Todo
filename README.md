@@ -3,7 +3,7 @@
 This repository contains code for Todo app with react-redux.
 
 View Demo:
-todo-hp181.vercel.app/
+https://todo-hp181.vercel.app/
 
 
 
